@@ -3,7 +3,7 @@ services:
     name: wisdom-high-school
     env: static
     buildCommand: ""
-    staticPublishPath: .
+    staticPublishPath: ./public
     routes:
       - type: rewrite
         source: /*
