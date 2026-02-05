@@ -20,7 +20,7 @@
 - **Branch**: `main`
 - **Root Directory**: Leave empty (or `.`)
 - **Build Command**: Leave empty (this is a static site)
-- **Publish Directory**: Leave empty (or `.`)
+- **Publish Directory**: `public` (this is required - all website files are in the public directory)
 
 ### Step 5: Deploy
 1. Click **"Create Static Site"**
